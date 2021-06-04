@@ -1,0 +1,10 @@
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\bin\Debug\Tirage Champions.exe.config
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\bin\Debug\Tirage Champions.exe
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\bin\Debug\Tirage Champions.pdb
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage_Champions.Tirage.resources
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage_Champions.ManageList.resources
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage_Champions.Properties.Resources.resources
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage Champions.csproj.GenerateResource.cache
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage Champions.csproj.CoreCompileInputs.cache
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage Champions.exe
+D:\Mes_documents\Documents\Projets Visual Studio\Tirage Champions\Tirage Champions\obj\Debug\Tirage Champions.pdb
