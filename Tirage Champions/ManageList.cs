@@ -27,7 +27,7 @@ namespace Tirage_Champions
 
         private void Ajouter_Click(object sender, EventArgs e)
         {
-            if (ChampionsAvailable.SelectedItem != null)
+            if (ChampionsAvailable.SelectedItem != null && Selected.Items.Count < 12)
             {
                 string addChampion = ChampionsAvailable.SelectedItem.ToString();
 
@@ -38,6 +38,9 @@ namespace Tirage_Champions
 
                     RefreshList();
                 }
+            } else if (Selected.Items.Count >= 12)
+            {
+                MessageBox.Show("Vous ne pouvez sélectionner que 12 champions");
             }
         }
 
