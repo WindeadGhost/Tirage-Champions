@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tirage_Champions.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ChampionsNames" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Aatrox,Akali,Camille,Cho'Gath,Darius,Dr. Mundo,Fiora,Gangplank,Garen,Gnar,Gragas,Gwen,Heimerdinger,Illaoi,Irelia,Jax,Jayce,Kayle,Kennen,Kled,Lee Sin,Lucian,Maokai,Mordekaiser,Nasus,Nocturne,Ornn,Pantheon,Poppy,Quinn,Renekton,Rengar,Riven,Rumble,Ryze,Sett,Shen,Singed,Sion,Sylas,Teemo,Trundle,Tryndamere,Urgot,Vayne,Viego,Vladimir,Volibear,Warwick,Wukong,Yasuo,Yone,Yorick,Zac</Value>
+    </Setting>
+    <Setting Name="ChampionsForHasard" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ChampionsSelected" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
